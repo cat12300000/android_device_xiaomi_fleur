@@ -274,6 +274,10 @@ PRODUCT_PACKAGES += \
     WifiOverlayFleur
 
 PRODUCT_PACKAGES += \
+    LineageApertureOverlayFleur \
+    LineageSettingsProviderOverlayFleur
+
+PRODUCT_PACKAGES += \
     NcmTetheringOverlay
 
 # Power-off Alarm

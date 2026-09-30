@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/custom_fleur.mk
+    $(LOCAL_DIR)/lineage_fleur.mk
