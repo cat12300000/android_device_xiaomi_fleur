@@ -3,6 +3,8 @@
 # Audio
 vendor/firmware/fs1815.fsm
 vendor/lib/hw/audio.primary.mt6781.so
+vendor/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so
+vendor/lib/vendor.mediatek.hardware.bluetooth.audio@2.2.so
 vendor/lib/hw/sound_trigger.primary.default.so
 vendor/lib/libMtkSpeechEnh.so
 vendor/lib/lib_iir.so
