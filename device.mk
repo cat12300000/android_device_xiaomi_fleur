@@ -4,19 +4,15 @@
 #
 
 DEVICE_PATH := device/xiaomi/fleur
-INFINITY_MAINTAINER := "StasGr12"
 TARGET_HAS_UDFPS := false
-WITH_GAPPS := true
+
+# Boot animation / screen
+TARGET_SCREEN_WIDTH := 1080
+TARGET_SCREEN_HEIGHT := 2400
 
 # Enable MTK Power and Performance hint hooks
 TARGET_TAP_HINT_ENABLED := true
 MTK_POWER_HINTS := true
-
-# Viper4FX
-PRODUCT_PACKAGES += \
-    ViPER4AndroidFX \
-    libv4a_fx_32 \
-    libv4a_fx_64
 
 # Quick Share
 PRODUCT_COPY_FILES += \

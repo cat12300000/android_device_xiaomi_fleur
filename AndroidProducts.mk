@@ -4,4 +4,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/infinity_fleur.mk
+    $(LOCAL_DIR)/crdroid_fleur.mk
+
+COMMON_LUNCH_CHOICES := \
+    crdroid_fleur-user \
+    crdroid_fleur-userdebug \
+    crdroid_fleur-eng

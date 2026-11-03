@@ -1,4 +1,4 @@
-# AOSP Device Tree for the Redmi Note 11S 4G/POCO M4 Pro 4G (fleur)
+# crDroid Device Tree for the Redmi Note 11S 4G/POCO M4 Pro 4G (fleur)
 
 ```
 #
