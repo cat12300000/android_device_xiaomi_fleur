@@ -295,6 +295,7 @@ PRODUCT_PACKAGES += \
     TetheringOverlayFleur \
     SettingsOverlayFleur \
     SystemUIOverlayFleur \
+    UpdaterOverlayFleur \
     WifiOverlayFleur
 
 PRODUCT_PACKAGES += \

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/cat12300000/crdroid_fleur_ota/main/{device}.json</string>
+</resources>
